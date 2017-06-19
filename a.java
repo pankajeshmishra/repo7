@@ -63,7 +63,7 @@ public class SampleJavaProject implements Runnable {
         System.out.printf("Hello, %s!%n", name);
         System.out.printf ("hello");
         System.out.printf("hi how are you");
-        System.out.printf ("100");
+        System.out.printf ("10");
     }
 
     @Override
