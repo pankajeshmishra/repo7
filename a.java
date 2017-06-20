@@ -64,6 +64,7 @@ public class SampleJavaProject implements Runnable {
         System.out.printf ("hello");
         System.out.printf("hi how are you");
         System.out.printf ("100000");
+	System.out.printf("hellow  hellow");
     }
 
     @Override
